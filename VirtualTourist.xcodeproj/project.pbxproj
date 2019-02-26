@@ -23,6 +23,7 @@
 		B05573B221FC523000C97EAF /* Photos.swift in Sources */ = {isa = PBXBuildFile; fileRef = B05573B121FC523000C97EAF /* Photos.swift */; };
 		B0581D1222178E1300D73926 /* VirtualTourist.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = B0227D6421EA1EEB0067DE7C /* VirtualTourist.xcdatamodeld */; };
 		B0581D1322178E1400D73926 /* VirtualTourist.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = B0227D6421EA1EEB0067DE7C /* VirtualTourist.xcdatamodeld */; };
+		B0B307EB22259FB700B90F10 /* Readme.md in Resources */ = {isa = PBXBuildFile; fileRef = B0B307EA22259FB700B90F10 /* Readme.md */; };
 		B0D84CCA2204FE930030D739 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0D84CC92204FE930030D739 /* Constants.swift */; };
 /* End PBXBuildFile section */
 
@@ -66,6 +67,7 @@
 		B02A8F8721F32D2500B2B4D3 /* PhotoAlbumVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoAlbumVC.swift; sourceTree = "<group>"; };
 		B02A8F8921F3342800B2B4D3 /* DataController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataController.swift; sourceTree = "<group>"; };
 		B05573B121FC523000C97EAF /* Photos.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Photos.swift; sourceTree = "<group>"; };
+		B0B307EA22259FB700B90F10 /* Readme.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Readme.md; sourceTree = "<group>"; };
 		B0B811B6220ECB8400CFDD40 /* Kingfisher.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = Kingfisher.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		B0D84CC92204FE930030D739 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -108,6 +110,7 @@
 		B0227D5121EA1EEB0067DE7C = {
 			isa = PBXGroup;
 			children = (
+				B0B307EA22259FB700B90F10 /* Readme.md */,
 				B0227D5C21EA1EEB0067DE7C /* VirtualTourist */,
 				B0227D7421EA1EEC0067DE7C /* VirtualTouristTests */,
 				B0227D7F21EA1EEC0067DE7C /* VirtualTouristUITests */,
@@ -298,6 +301,7 @@
 			files = (
 				B0227D6B21EA1EEC0067DE7C /* LaunchScreen.storyboard in Resources */,
 				B0227D6821EA1EEC0067DE7C /* Assets.xcassets in Resources */,
+				B0B307EB22259FB700B90F10 /* Readme.md in Resources */,
 				B0227D6321EA1EEB0067DE7C /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
